@@ -218,13 +218,18 @@ Login using database credentials.
 
 ## 🖼️ Screenshots
 
-```
-Images/
-├── vpc.png
-├── ec2.png
-├── alb.png
-├── phpmyadmin.png
-```
+
+Images/ <br>
+├── * [View VPC Diagram](images/vpc.jpg)  <br>
+├── * [View EC2 Instance](images/ec2.jpg)  <br>
+├── * [View Load Balancer](images/alb.jpg)  <br>
+├── * [View phpMyAdmin Interface](images/phpmyadmin.jpg)  <br>
+
+
+
+
+
+
 
 ---
 
