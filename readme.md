@@ -220,7 +220,7 @@ Login using database credentials.
 
 ```
 Images/
-├── vpc.png
+├── <img src="Images/vpc.png" alt="VPC" width="500"> vpc.png
 ├── ec2.png
 ├── alb.png
 ├── phpmyadmin.png
