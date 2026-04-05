@@ -221,7 +221,7 @@ Login using database credentials.
 Add screenshots from project:
 
 ```
-screenshots/
+Images/
 ├── vpc.png
 ├── ec2.png
 ├── alb.png
