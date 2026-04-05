@@ -218,8 +218,6 @@ Login using database credentials.
 
 ## 🖼️ Screenshots
 
-Add screenshots from project:
-
 ```
 Images/
 ├── vpc.png
